@@ -34,9 +34,26 @@ h1 {
 #AM {
   color: #95C200
 }
+
+#PA {
+  color: #D299A4
+}
+
+#LD {
+  color: #619681
+}
+
+#CR {
+  color:#0f45b8
+}
+
+#JP {
+  color:#bd0202
+}
+
 Img {
-  height: 200px;
-  width: 400px;
+  height: 400px;
+  width: 600px;
 }
 
 selection {
@@ -79,7 +96,7 @@ td {
   border-style: solid;
 }
 
-a#HI:hover, a#SD:hover, a#MI:hover, a#JA:hover, a#TI:hover {
+a#HI:hover, a#SD:hover, a#MI:hover, a#JA:hover, a#TI:hover, a#AM:hover, a#PA:hover, a#LD:hover, a#CR:hover, a#JP:hover {
   color:white
 }
 
