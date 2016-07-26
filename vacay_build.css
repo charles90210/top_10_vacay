@@ -1,0 +1,93 @@
+li {
+  font-size: 30px;
+  font-weight: bolder;
+  text-align: left;
+  font-family: cursive;
+}
+
+h1 {
+  font-family: cursive;
+  font-size: 40px;
+}
+
+#HI {
+  color: blue
+
+}
+
+#SD {
+  color: red
+}
+
+#MI {
+  color: green
+}
+
+#JA {
+  color: orange
+}
+
+#TI {
+  color: purple
+}
+
+#AM {
+  color: #95C200
+}
+Img {
+  height: 200px;
+  width: 400px;
+}
+
+selection {
+  text-align: center;
+}
+
+ol {
+  text-align: center;
+}
+
+body {
+  background-image: url("https://pixabay.com/static/uploads/photo/2013/07/12/12/48/tropical-146286_960_720.png");
+  background-position: center;
+  background-size: cover;
+}
+
+p {
+  color: white;
+}
+
+footer {
+  text-align: center;
+}
+
+table {
+  border-width: thin;
+  border-color: black;
+  border-style: solid;
+}
+
+tr {
+  border-width: thin;
+  border-color: black;
+  border-style: solid;
+}
+
+td {
+  border-width: thin;
+  border-color: black;
+  border-style: solid;
+}
+
+a#HI:hover, a#SD:hover, a#MI:hover, a#JA:hover, a#TI:hover {
+  color:white
+}
+
+.button {
+  padding:5px;
+  background-color: #C6E2FF;
+  border: 1px solid #666;
+  color:#000;
+  text-decoration:none;
+  font-family:cursive;
+}
